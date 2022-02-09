@@ -1,1 +1,1 @@
-# CS389
+# CS389: Software Engineering
